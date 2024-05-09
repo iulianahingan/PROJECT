@@ -28,11 +28,8 @@ Utilizare API ChatGPT
 ![captura](https://github.com/iulianahingan/PROJECT/blob/main/public/Capture2.PNG)
 
 5. Capturi de ecran ale aplicației
- 
-![dsefsf](https://github.com/denisam12/cloud-project/assets/132089622/c91db385-15e3-444d-a7eb-ac59e3ceeaed)
-HomePage
 
- ![ereer](https://github.com/denisam12/cloud-project/assets/132089622/08b959ac-843d-4510-9d6f-2eb918ce78c5)
+ ![captura5](https://github.com/iulianahingan/PROJECT/blob/main/public/Capture5.PNG)
 
 Exemplu de utilizare pagina ChatGPT – AuthorBot
 
