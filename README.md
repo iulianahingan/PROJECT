@@ -15,7 +15,7 @@ a) S-a folosit MongoDB pentru a permite salvarea datelor introduse în cadrul ap
  ![WhatsApp Image 2023-05-14 at 22 24 35](https://github.com/denisam12/cloud-project/assets/132089622/ee69b68d-60ee-4544-9949-3795808d1835)
 
 b) API-ul de ChatGPT ajută aplicația să devină o punte de legătură cu o sursă infinită de informații de actualitate, care sunt menite să ajute mai apoi la definitivarea articolelor finale.
- ![Captură de ecran 2023-05-14 223034](https://github.com/denisam12/cloud-project/assets/132089622/0c301cd2-d043-47ae-991b-fadd60eab80e)
+ ![Captură de ecran 2024-05-10](https://github.com/iulianahingan/PROJECT/blob/main/public/Capture.PNG)
 
 Utilizare API ChatGPT
 
