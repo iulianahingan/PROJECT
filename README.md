@@ -21,12 +21,11 @@ Utilizare API ChatGPT
 
 4. Fluxul de date
 	Primul pas făcut pentru a accesa aplicația este aceea de a accesa link-ul acesteia. După care prima interacțiune pe care utilizatorul o are este cu pagina de HomePage.
- ![ppo](https://github.com/denisam12/cloud-project/assets/132089622/279827c0-e1b0-46ee-8fe3-9c94448176cc)
 
 
 	Următoarea secvență de cod prezintă API-ul de ChatGPT care ajută la colectarea informațiilor necesare pentru a realiza articolele. 
  
-![sfefs](https://github.com/denisam12/cloud-project/assets/132089622/1c13bf59-d073-4c7d-9db4-9a0814080f98)
+![captura](https://github.com/iulianahingan/PROJECT/blob/main/public/Capture2.PNG)
 
 5. Capturi de ecran ale aplicației
  
