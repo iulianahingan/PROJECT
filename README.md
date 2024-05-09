@@ -1,5 +1,5 @@
 *Link-uri utile:
-Link acces GitHub: https://github.com/denisam12/cloud-project
+Link acces GitHub: [[https://github.com/denisam12/cloud-project](https://github.com/iulianahingan/PROJECT)
 Link acces aplicație: https://cloud-project-orpin.vercel.app/
 Link acces video prezentare: https://youtu.be/V5RB5XCYk6o
 
