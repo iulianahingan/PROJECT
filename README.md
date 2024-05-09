@@ -38,5 +38,5 @@ Exemplu de utilizare pagina ChatGPT – AuthorBot
 HomePage – cu noul articol adăugat
 
 6. Referințe
-Curs Cloud Computing - https://online.ase.ro/course/view.php?id=30796
-Seminar Cloud Computing - https://online.ase.ro/course/view.php?id=30841
+Curs Cloud Computing - [curs](https://online.ase.ro/course/view.php?id=40607)
+Seminar Cloud Computing - [seminar](https://online.ase.ro/mod/page/view.php?id=340610)
