@@ -32,12 +32,8 @@ Utilizare API ChatGPT
  ![captura5](https://github.com/iulianahingan/PROJECT/blob/main/public/Capture5.PNG)
 
 Exemplu de utilizare pagina ChatGPT – AuthorBot
-
-![insert](https://github.com/denisam12/cloud-project/assets/132089622/4589e35b-5fbd-429c-b9ec-5128d32669b7)
-
-Pagina de Insert – Exemplu de inserare articol „Cloud Computing is the new ERA”
  
-![homepage](https://github.com/denisam12/cloud-project/assets/132089622/7a5c79ad-9289-4d27-86af-6dc1e2153c23)
+![homepage](https://github.com/iulianahingan/PROJECT/blob/main/public/Capture6.PNG)
 
 HomePage – cu noul articol adăugat
 
