@@ -12,7 +12,7 @@ Link acces video prezentare: https://youtu.be/V5RB5XCYk6o
 
 3. Descriere API
 a) S-a folosit MongoDB pentru a permite salvarea datelor introduse în cadrul aplicației, specific articolele create.
- ![WhatsApp Image 2023-05-14 at 22 24 35](https://github.com/denisam12/cloud-project/assets/132089622/ee69b68d-60ee-4544-9949-3795808d1835)
+ ![Captura 2024-05-10](https://github.com/iulianahingan/PROJECT/blob/main/public/Capture1.PNG))
 
 b) API-ul de ChatGPT ajută aplicația să devină o punte de legătură cu o sursă infinită de informații de actualitate, care sunt menite să ajute mai apoi la definitivarea articolelor finale.
  ![Captură de ecran 2024-05-10](https://github.com/iulianahingan/PROJECT/blob/main/public/Capture.PNG)
