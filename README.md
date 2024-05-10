@@ -1,7 +1,7 @@
 *Link-uri utile:
 Link acces GitHub: [(https://github.com/iulianahingan/PROJECT)](https://github.com/iulianahingan/PROJECT)
 Link acces aplicație: https://cloud-project-orpin.vercel.app/
-Link acces video prezentare: https://youtu.be/V5RB5XCYk6o
+Link acces video prezentare: [(https://youtu.be/tVyllhYE0rA)](https://youtu.be/tVyllhYE0rA)
 
 1. Introducere
 	Aplicația dezvoltată în cadrul proiectului de seminar se numește ArticleIT și scopul principal al acesteia este sa funcționeze asemenea unui blog și poate să fie un motor de afișare și de creare a unor articole și oferă, de asemenea, posibilitatea de a afișa anumite informații pe care ChatGPT le poate oferi pe diverse teme de interes în domeniul IT. 
